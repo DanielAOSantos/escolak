@@ -1,0 +1,16 @@
+.cabecalho {
+    color: white;
+    display:inline-flex;
+    padding-left: 50%;
+    word-spacing: 75px;
+    font-size: 25px
+}
+.site {
+    background-color: black;
+}
+.titulo{
+    color: white;
+    display: inline-flex;
+    font-size: 25px;
+    padding-left: 10px;
+}
